@@ -18,7 +18,7 @@ const App = () => {
 
   useEffect(() => {
     alanBtn({
-      key: 'a0b09762904881bc34dcc746eb0769b02e956eca572e1d8b807a3e2338fdd0dc/stage',
+      key: 'add your own api key here',
       onCommand: ({ command, articles, number }) => {
         if (command === 'newHeadlines') {
           setNewsArticles(articles);
