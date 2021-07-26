@@ -11,7 +11,7 @@ i use React framework for this project and took reference from javascript master
 in order to run this app follow this steps :
 
 1) download zip file and extract it<br>
-2) get api key from the following websites : 
+2) get api key from the following websites :<br> 
   i ) for the latest news and updates  : https://newsapi.org/<br>
   ii) generate your another api key from : https://alan.app/<br>
 3) Now, put your alan api key in App.js folder in key object
